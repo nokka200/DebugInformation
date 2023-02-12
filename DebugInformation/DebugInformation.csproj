@@ -4,6 +4,13 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>Nokka200.DebugInformation</PackageId>
+    <Title>DebugInformation</Title>
+    <RepositoryUrl>https://github.com/nokka200/DebugInformation</RepositoryUrl>
+    <PackageTags>Debug</PackageTags>
+    <Authors>Niko Niemelä</Authors>
+    <Company />
+    <Product />
   </PropertyGroup>
 
 </Project>
